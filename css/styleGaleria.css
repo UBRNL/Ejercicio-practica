@@ -1,0 +1,30 @@
+.container{
+    background-color: rgb(243, 218, 222);
+    width: 800%;
+    max-width: 900px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.row{
+    max-width: 900%;
+    padding: 15;
+}
+
+img {
+    width: 180px;
+    height: 200px;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.btn {
+    width: 95px;
+    height: 32px;
+    padding: 0.5px;
+    border-radius: 5px;
+}
